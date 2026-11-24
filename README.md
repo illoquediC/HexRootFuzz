@@ -1,12 +1,12 @@
-# 😈 HEX ROOT FUZZ (V.1.0.2) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin&logoColor=C81AEE) 
+# 😈 HEX ROOT FUZZ (V.1.0.2) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin&logoColor=C81AEE) <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
 
 😈 **HexRootFuzz** es una aplicación para Android diseñada para simplificar el reconocimiento web y las evaluaciones de seguridad mediante una interfaz gráfica intuitiva.
 
 En lugar de ejecutar manualmente comandos en la terminal, HexRootFuzz proporciona un entorno integral para ejecutar herramientas de seguridad populares directamente desde Android.
 
-<a href="https://github.com/Jaypsmall/HexRootFuzz/releases/download/android-root/HexRootFuzz_v1.0.2.apk">
-<img src="https://img.shields.io/badge/DOWNLOAD_HEXROOTFUZZ_v1.0.2_APK-181717?style=flat&logo=android&logoColor=green" alt="Descargar versión">
-</a>
+ <a href="https://github.com/Jaypsmall/HexRootFuzz/releases/download/android-root/HexRootFuzz_v1.0.2.apk">
+    <img src="https://img.shields.io/badge/📥_DESCARGAR_HEXROOTFUZZ_APK_v1.0.2-181717?style=for-the-badge&logo=android&logoColor=00FF66" alt="Descargar APK">
+  </a>
 
 ---
 
