@@ -144,7 +144,7 @@ Si deseas mejorar el proyecto, puedes bifurcarlo y enviar tus ideas.
 
 ## 📄 Licencia
 
-Licencia MIT
+**Licencia MIT**
 
 ---
 
